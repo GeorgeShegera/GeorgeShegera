@@ -10,7 +10,7 @@
     I believe that everyday is a learning opportunity.</li>
 </ul>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=georgeshegera&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="georgeshegera" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=georgeshegera&label=Profile%20views&colorblueviolet	&style=for-the-badge" alt="georgeshegera" /> </p>
 
 
 <h3 align="left">Connect with me:</h3>

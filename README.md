@@ -47,16 +47,11 @@
 <h2 align="center">📊Github Stats</h2>
 <table>
   <tr>
-    <td align="center">
+    <td align="right">
       <img src="https://github-readme-stats.vercel.app/api?username=georgeshegera&show_icons=true&theme=tokyonight" alt="georgeshegera" />
     </td>
     <td align="center" rowspan="2">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=georgeshegera&theme=tokyonight&hide_progress=true&layout=donut-vertical" alt="georgeshegera" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/?user=georgeshegera&theme=tokyonight" alt="georgeshegera" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=georgeshegera&theme=tokyonight&hide_progress=true&layout=compact" alt="georgeshegera" />
     </td>
   </tr>
 </table>

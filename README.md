@@ -45,10 +45,11 @@
 
 
 <h2 align="center">📊Github Stats</h2>
-<div style="display: flex;">
-  <div>
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=georgeshegera&theme=tokyonight&hide_progress=true&layout=compact" alt="georgeshegera" /></div>
-  <div>
-  <img align="left"  src="https://github-readme-stats.vercel.app/api?username=georgeshegera&show_icons=true&theme=tokyonight" alt="georgeshegera" />
+<div style="display: flex; justify-content: space-between;">
+  <div style="flex: 1; text-align: center;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=georgeshegera&theme=tokyonight&hide_progress=true&layout=compact" alt="georgeshegera" />
+  </div>
+  <div style="flex: 1; text-align: center;">
+    <img src="https://github-readme-stats.vercel.app/api?username=georgeshegera&show_icons=true&theme=tokyonight" alt="georgeshegera" />
   </div>
 </div>

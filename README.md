@@ -19,6 +19,10 @@
 <a href="https://discord.com/users/440256062587797507">
   <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" />
 </a>
+<a href="https://www.instagram.com/george_shegera">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />  
+</a>
+
 
 
 <h3 align="left">Languages and Tools:</h3>

@@ -55,4 +55,4 @@
 </table>
 
 <h2  align="center">📊A Quote</h2>
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes" />
+<img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes" />

@@ -3,9 +3,8 @@
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGMwMTd0YWRjdW01bjd4Mmxjem8xY2libG92b3R4empwdzFwNTgxdiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26tn33aiTi1jkl6H6/giphy.gif">
 
 
-<p>I'm a beginner Full Stack developer with a huge love of ASP.NET Core and React.js</p>
-
 <h3>About me:</h3>
+<p>I'm a beginner Full Stack developer with a huge love of ASP.NET Core and React.js</p>
 <ul>
   <li>🌱 I’m currently learning many things, 
     I believe that everyday is a learning opportunity.</li>

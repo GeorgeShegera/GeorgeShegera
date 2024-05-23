@@ -31,7 +31,7 @@
 <h2 align="center">Languages and Tools</h2>
 <div align="center">
   <a href="https://skillicons.dev">
-    <img  src="https://skillicons.dev/icons?i=js,html,css,cs)](https://skillicons.dev" />
+    <img  src="https://skillicons.dev/icons?i=dotnet,js,html,css,cs)](https://skillicons.dev" />
   </a>
 </div>
 

@@ -33,8 +33,6 @@
   <a href="https://skillicons.dev">
     <img  src="https://skillicons.dev/icons?i=dotnet,cs,visualstudio,html,css,bootstrap,sass,npm,js,react,redux,vscode,git,github,microsoftsqlserver&perline=7" />    
   </a>
-  <img height="20" width="30" src="https://cdn.simpleicons.org/simpleicons/#CC2927" />
- 
 </div>
 
 

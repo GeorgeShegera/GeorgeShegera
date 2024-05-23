@@ -45,8 +45,8 @@
 
 
 <h2 align="center">📊Github Stats</h2>
-<table align="center">
-  <tr>
+<table align="center" cellpadding="0">
+  <tr style="padding: 0">
     <td valign="top">  <img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=georgeshegera&layout=compact&theme=tokyonight" alt="georgeshegera"  /></td>
     <td valign="top">
         <img height="185" src="https://github-readme-stats.vercel.app/api?username=georgeshegera&show_icons=true&theme=tokyonight" alt="georgeshegera"  />

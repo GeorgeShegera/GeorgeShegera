@@ -46,7 +46,7 @@
 
 <h2 align="center">📊Github Stats</h2>
 
-<p float="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=georgeshegera&theme=tokyonight&hide_progress=true&layout=compact" alt="georgeshegera" width="400" />
+<p>
+  <img float="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=georgeshegera&theme=tokyonight&hide_progress=true&layout=compact" alt="georgeshegera" width="400" />
   <img src="https://github-readme-stats.vercel.app/api?username=georgeshegera&show_icons=true&theme=tokyonight" alt="georgeshegera" width="400" /> 
 </p>

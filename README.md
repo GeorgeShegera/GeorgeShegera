@@ -50,3 +50,5 @@
   <img float="left" align="left" height="185" src="https://github-readme-stats.vercel.app/api?username=georgeshegera&show_icons=true&theme=tokyonight" alt="georgeshegera"  />
   <img float="left" align="right" height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=georgeshegera&layout=compact&theme=tokyonight" alt="georgeshegera"  />
 </p>
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)

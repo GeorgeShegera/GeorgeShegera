@@ -50,12 +50,12 @@
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=georgeshegera&show_icons=true&theme=tokyonight" alt="georgeshegera" />
     </td>
-    <td>
+    <td rowspan="2">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=georgeshegera&theme=tokyonight&hide_progress=true&layout=donut-vertical" alt="georgeshegera" />
     </td>
   </tr>
   <tr>
-    <td colspan="2">
+    <td>
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=georgeshegera&theme=tokyonight" alt="georgeshegera" />
     </td>
   </tr>

@@ -29,8 +29,9 @@
 
 
 <h2 align="center">Languages and Tools</h2>
-<img align="center" src="https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev" />
-
+<div align="center">
+  <img  src="https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev" />
+</div>
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=georgeshegera&show_icons=true&locale=en&layout=compact" alt="georgeshegera" /></p>

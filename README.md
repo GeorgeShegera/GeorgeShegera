@@ -5,7 +5,7 @@
 
 <p>I'm a beginner Full Stack developer with a huge love of ASP.NET Core and React.js</p>
 
-
+<h3>About me:</h3>
 <ul>
   <li>🌱 I’m currently learning many things, 
     I believe that everyday is a learning opportunity.</li>

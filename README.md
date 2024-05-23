@@ -29,7 +29,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=georgeshegera&color=blueviolet&style=for-the-badge" alt="georgeshegera" /> </p>
 
 
-<h2 align="center">Languages and Tools</h2>
+<h2 align="center">:computer:Languages and Tools</h2>
 <div align="center">
   <a href="https://skillicons.dev">
     <img  src="https://skillicons.dev/icons?i=dotnet,cs,visualstudio,html,css,bootstrap,sass,npm,js,react,redux,vscode,git,github,microsoftsqlserver&perline=7" />    

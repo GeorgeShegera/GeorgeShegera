@@ -47,7 +47,7 @@
 <h2 align="center">📊Github Stats</h2>
 <div>
  <img align="left" src="https://github-readme-stats.vercel.app/api?username=georgeshegera&show_icons=true&theme=tokyonight" alt="georgeshegera" />
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=georgeshegera&theme=tokyonight&hide_progress=true" alt="georgeshegera" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=georgeshegera&theme=tokyonight&hide_progress=true&layout=donut-vertical" alt="georgeshegera" />
 </div>
 
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=georgeshegera&" alt="georgeshegera" /></p>

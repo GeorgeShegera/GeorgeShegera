@@ -45,7 +45,7 @@
 
 
 <h2 align="center">📊Github Stats</h2>
-<table>
+<table align="center">
   <tr>
     <td align="right" width="50%">
       <img src="https://github-readme-stats.vercel.app/api?username=georgeshegera&show_icons=true&theme=tokyonight" alt="georgeshegera" />

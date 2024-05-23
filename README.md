@@ -25,7 +25,7 @@
 </a>
 
 <hr/>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=georgeshegera&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="georgeshegera" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=georgeshegera&color=blueviolet&style=for-the-badge" alt="georgeshegera" /> </p>
 
 
 <h3 align="left">Languages and Tools:</h3>

@@ -46,7 +46,7 @@
 
 <h2 align="center">Github Stats</h2>
 <div>
- <img align="left" src="https://github-readme-stats.vercel.app/api?username=georgeshegera&show_icons=true&theme=radical" alt="georgeshegera" />
+ <img align="left" src="https://github-readme-stats.vercel.app/api?username=georgeshegera&show_icons=true&theme=cobalt" alt="georgeshegera" />
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=georgeshegera&show_icons=true&locale=en" alt="georgeshegera" />
 </div>
 

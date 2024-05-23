@@ -24,6 +24,10 @@
 <a href="https://t.me/George_Shegera">
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />  
 </a>
+<a href="linkedin.com/in/george-shegera-b272a6251">
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=linkedin&logoColor=white" />  
+</a>
+
 
 <br />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=georgeshegera&color=blueviolet&style=for-the-badge" alt="georgeshegera" /> </p>

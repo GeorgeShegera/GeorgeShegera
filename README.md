@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <a href="mailto:shegerageorgy@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&style=social"/></a>
 <a href="https://discord.com/users/440256062587797507">
   <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-thebadge&logo=discord&logoColor=white" />
 </a>

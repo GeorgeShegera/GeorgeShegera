@@ -56,7 +56,7 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=georgeshegera&theme=tokyonight" alt="georgeshegera" />
+      <img src="https://github-readme-stats.vercel.app/api/?user=georgeshegera&theme=tokyonight" alt="georgeshegera" />
     </td>
   </tr>
 </table>

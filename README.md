@@ -30,7 +30,7 @@
 
 <h2 align="center">Languages and Tools</h2>
 <div align="center">
-  <img  src="https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev" />
+  <img  src="https://skillicons.dev/icons?i=js,html,css,cs)](https://skillicons.dev" />
 </div>
 
 

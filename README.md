@@ -1,5 +1,5 @@
 <h1 align="center">Hello everyone👋, I'm George</h1>
-<hr/>
+
 <p>I'm a beginner Full Stack developer with a huge love of ASP.NET Core and React.js</p>
 
 <img align="right" alt="Coding" width="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGMwMTd0YWRjdW01bjd4Mmxjem8xY2libG92b3R4empwdzFwNTgxdiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26tn33aiTi1jkl6H6/giphy.gif">

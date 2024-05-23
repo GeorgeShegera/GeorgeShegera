@@ -13,8 +13,6 @@
 
 
 
-- 📫 How to reach me **shegerageorgy@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <hr/>
 <p align="left">

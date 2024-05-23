@@ -45,14 +45,18 @@
 
 
 <h2 align="center">📊Github Stats</h2>
-<div style="display: flex; grid-template-columns: 1fr 1fr; grid-template-rows: 1fr 1fr;">
-  <div>
-     <img src="https://github-readme-stats.vercel.app/api?username=georgeshegera&show_icons=true&theme=tokyonight" alt="georgeshegera" />
-  </div>
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=georgeshegera&theme=tokyonight&hide_progress=true&layout=donut-vertical" alt="georgeshegera" />
-  </div>
-  <div>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=georgeshegera&theme=tokyonight" alt="georgeshegera" />
-  </div>
-</div>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=georgeshegera&show_icons=true&theme=tokyonight" alt="georgeshegera" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=georgeshegera&theme=tokyonight&hide_progress=true&layout=donut-vertical" alt="georgeshegera" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=georgeshegera&theme=tokyonight" alt="georgeshegera" />
+    </td>
+  </tr>
+</table>

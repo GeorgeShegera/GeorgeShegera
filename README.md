@@ -10,8 +10,6 @@
     I believe that everyday is a learning opportunity.</li>
 </ul>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=georgeshegera&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="georgeshegera" /> </p>
-
 
 <h3 align="left">Connect with me:</h3>
 <a href="mailto:shegerageorgy@gmail.com">
@@ -26,7 +24,8 @@
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />  
 </a>
 
-
+<hr/>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=georgeshegera&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="georgeshegera" /> </p>
 
 
 <h3 align="left">Languages and Tools:</h3>

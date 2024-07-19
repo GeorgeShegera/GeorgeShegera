@@ -8,7 +8,11 @@
 <p>I'm a beginner Full Stack developer with a huge love of ASP.NET Core and React.js</p>
 <ul>
   <li>🌱 I’m currently learning many things, 
-    I believe that everyday is a learning opportunity.</li>
+    I believe that everyday is a learning opportunity.
+  </li>
+  <li>
+    Not finished yet...
+  </li>
 </ul>
 
 

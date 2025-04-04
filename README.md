@@ -7,11 +7,20 @@
 <h3>About me:</h3>
 <p>I'm a beginner Full Stack developer with a huge love of ASP.NET Core and React.js</p>
 <ul>
-  <li>🌱 I’m currently learning a lot of things, 
-    I believe that everyday is a learning opportunity.
+  <li>
+    🌱 I believe that every day is a learning opportunity.
   </li>
   <li>
-    Not finished yet...
+    💡 Passionate about building modern web applications with clean and efficient code.
+  </li>
+  <li>
+    🛠 Currently exploring ASP.NET C#, React.js.
+  </li>
+  <li>
+    🚀 Always excited to tackle new challenges and improve my skills.
+  </li>
+  <li>
+    🎯 Goal: Become a skilled Full Stack developer and work on impactful projects.
   </li>
 </ul>
 
